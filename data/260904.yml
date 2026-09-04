@@ -4,10 +4,10 @@ about:
     Command line tools for fly.io services
   license: Apache-2.0
   homepage: https://fly.io
-  head: c6df5bb
+  head: 1f9a546
   archived: false
   latestVersion: v0.4.99
-  collectedAt: 2026-09-04T19:32:11Z
+  collectedAt: 2026-09-04T21:03:30Z
 timeline:
   created: 2019-07-26
   lastCommit: 2026-09-04
@@ -18,10 +18,10 @@ popularity:
   fork: 309
   release: 1368
   contributor: 226
-  pullRequest: 4128
+  pullRequest: 4129
   issue: 1030
 language:
-  Go: 3579016
+  Go: 3579137
   Dockerfile: 20454
   Shell: 18475
   Makefile: 1414
@@ -32,64 +32,167 @@ language:
   Procfile: 69
   PowerShell: 40
   HTML: 13
-totalBytes: 3621125
+totalBytes: 3621246
 recent:
   last30d:
     since: 2026-08-05
     release: 20
-    mergedPR: 95
+    mergedPR: 96
     openPR: 14
     closedIssue: 2
     openIssue: 1
-    commit: 107
+    commit: 108
   last60d:
     since: 2026-07-06
     release: 32
-    mergedPR: 146
+    mergedPR: 147
     openPR: 18
     closedIssue: 3
     openIssue: 2
-    commit: 150
+    commit: 151
   last90d:
     since: 2026-06-06
     release: 40
-    mergedPR: 182
+    mergedPR: 183
     openPR: 22
     closedIssue: 4
     openIssue: 4
-    commit: 196
+    commit: 197
   last180d:
     since: 2026-03-08
     release: 79
-    mergedPR: 321
+    mergedPR: 322
     openPR: 28
     closedIssue: 10
     openIssue: 6
-    commit: 325
+    commit: 326
   last360d:
     since: 2025-09-09
     release: 100
-    mergedPR: 482
+    mergedPR: 483
     openPR: 29
     closedIssue: 20
     openIssue: 13
-    commit: 479
+    commit: 480
   last720d:
     since: 2024-09-14
     release: 100
-    mergedPR: 922
+    mergedPR: 923
     openPR: 41
     closedIssue: 63
     openIssue: 36
-    commit: 915
+    commit: 916
 total:
   release: 1368
-  mergedPR: 3527
+  mergedPR: 3528
   openPR: 49
   closedIssue: 862
   openIssue: 168
-  commit: 8150
+  commit: 8151
 ---
+path: /home/runner/.x-repo/github.com/superfly/flyctl
+collectedAt: 2026-09-04T21:03:33Z
+loc:
+  Go:
+    code: 107529
+    comments: 6688
+    blanks: 23017
+    files: 779
+  Graphql:
+    code: 9813
+    comments: 1
+    blanks: 1497
+    files: 2
+  Toml:
+    code: 691
+    comments: 40
+    blanks: 173
+    files: 45
+  Dockerfile:
+    code: 474
+    comments: 126
+    blanks: 186
+    files: 23
+  Sh:
+    code: 348
+    comments: 29
+    blanks: 78
+    files: 14
+  Bash:
+    code: 169
+    comments: 8
+    blanks: 31
+    files: 2
+  CHeader:
+    code: 58
+    comments: 228
+    blanks: 32
+    files: 1
+  Makefile:
+    code: 28
+    comments: 2
+    blanks: 12
+    files: 1
+  Json:
+    code: 20
+    comments: 0
+    blanks: 0
+    files: 2
+  Yaml:
+    code: 17
+    comments: 2
+    blanks: 0
+    files: 1
+  TypeScript:
+    code: 12
+    comments: 0
+    blanks: 2
+    files: 1
+  JavaScript:
+    code: 10
+    comments: 1
+    blanks: 3
+    files: 1
+  Nix:
+    code: 10
+    comments: 4
+    blanks: 5
+    files: 1
+  Bitbake:
+    code: 9
+    comments: 0
+    blanks: 1
+    files: 1
+  Html:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 2
+  Ruby:
+    code: 6
+    comments: 0
+    blanks: 2
+    files: 1
+  PowerShell:
+    code: 1
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 310
+    blanks: 275
+    files: 4
+  Text:
+    code: 0
+    comments: 76
+    blanks: 8
+    files: 1
+total:
+  code: 119241
+  comments: 7516
+  blanks: 25322
+  files: 883
 ---
 date: "2026-08-24"
 repo:
