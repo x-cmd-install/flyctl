@@ -4,7 +4,7 @@
   visiblename: flyctl
   version: 0.4.101
   origversion: 0.4.101-1
-  status: newest
+  status: outdated
   summary: Command line tools for fly.io services
   maintainers:
     - ringo@aur
@@ -16,7 +16,7 @@
   visiblename: flyctl-bin
   version: 0.4.101
   origversion: 0.4.101-1
-  status: newest
+  status: outdated
   summary: Command line tools for fly.io services
   maintainers:
     - ringo@aur
@@ -34,7 +34,7 @@
   visiblename: flyctl
   version: 0.4.101
   origversion: null
-  status: newest
+  status: outdated
   summary: Command-line tools for fly.io services
 - repo: homebrew
   srcname: flyctl
@@ -157,7 +157,7 @@
   subrepo: main
   binname: flyctl
   visiblename: flyctl
-  version: 0.4.101
+  version: 0.4.102
   origversion: null
   status: newest
   licenses:
@@ -168,7 +168,7 @@
   visiblename: flyctl
   version: 0.4.101
   origversion: null
-  status: newest
+  status: outdated
   summary: Command line tools for fly.io services
   maintainers:
     - thunder-coding@termux.dev

@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.102"
   latestRelease: "v0.4.102"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:50:25Z
+  collectedAt: 2026-09-10T22:55:06Z
 timeline:
   created: 2019-07-26
   lastCommit: 2026-09-10
@@ -93,7 +93,7 @@ total:
   commit: 8168
 ---
 path: /home/runner/.x-repo/github.com/superfly/flyctl
-collectedAt: 2026-09-10T20:50:33Z
+collectedAt: 2026-09-10T22:55:13Z
 loc:
   Go:
     code: 108710
