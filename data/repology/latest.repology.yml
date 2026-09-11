@@ -32,9 +32,9 @@
 - repo: homebrew
   srcname: flyctl
   visiblename: flyctl
-  version: 0.4.101
+  version: 0.4.102
   origversion: null
-  status: outdated
+  status: newest
   summary: Command-line tools for fly.io services
 - repo: homebrew
   srcname: flyctl
