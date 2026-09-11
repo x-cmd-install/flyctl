@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 20 | 97 | 13 | 2 | 1 | 95 |
-| last60d | 2026-07-12 | 32 | 150 | 15 | 3 | 3 | 150 |
-| 90d | 2026-06-12 | 42 | 198 | 20 | 4 | 5 | 212 |
-| last180d | 2026-03-14 | 80 | 334 | 25 | 8 | 7 | 335 |
-| 360d | 2025-09-15 | 100 | 496 | 27 | 20 | 14 | 493 |
-| last720d | 2024-09-20 | 100 | 930 | 39 | 63 | 36 | 929 |
+| 30d | 2026-08-12 | 19 | 90 | 13 | 2 | 1 | 95 |
+| last60d | 2026-07-13 | 32 | 147 | 15 | 3 | 3 | 150 |
+| 90d | 2026-06-13 | 42 | 198 | 20 | 4 | 5 | 212 |
+| last180d | 2026-03-15 | 80 | 334 | 25 | 8 | 7 | 335 |
+| 360d | 2025-09-16 | 100 | 495 | 27 | 20 | 14 | 493 |
+| last720d | 2024-09-21 | 100 | 930 | 39 | 63 | 36 | 925 |
 
 ## Release assets
 
@@ -79,11 +79,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **15** distros on [repology.org](https://repology.org/project/flyctl). **1** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **15** distros on [repology.org](https://repology.org/project/flyctl). **2** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.4.101` | ⚠️ outdated |
+| Homebrew | `0.4.102` | ✅ latest |
 | Nix unstable | `0.4.97` | ⚠️ outdated |
 
 ## Improve this data
@@ -95,4 +95,4 @@ Install metadata for flyctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:55:20Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:04:49Z._
