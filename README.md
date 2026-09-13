@@ -14,11 +14,11 @@ x install flyctl
 
 ## Code insight
 
-Total: **120,388** lines of code across **862** files in the top 5 languages.
+Total: **120,470** lines of code across **862** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 108,710 | 6,859 | 23,058 | 778 |
+| Go | 108,792 | 6,871 | 23,062 | 778 |
 | Graphql | 9,813 | 1 | 1,497 | 2 |
 | Toml | 691 | 40 | 173 | 45 |
 | Dockerfile | 474 | 126 | 186 | 23 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.4.102` (2026-09-10)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-12
 - **Assets in release**: 7
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 1371 · **Merged PRs**: 3545 · **Open PRs**: 47 · **Closed issues**: 862 · **Open issues**: 169 · **Commits**: 8168
+- **Releases**: 1371 · **Merged PRs**: 3546 · **Open PRs**: 47 · **Closed issues**: 862 · **Open issues**: 169 · **Commits**: 8169
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 19 | 88 | 12 | 1 | 1 | 95 |
-| last60d | 2026-07-14 | 31 | 144 | 15 | 3 | 3 | 150 |
-| 90d | 2026-06-14 | 42 | 198 | 20 | 4 | 5 | 212 |
-| last180d | 2026-03-16 | 80 | 332 | 25 | 8 | 7 | 335 |
-| 360d | 2025-09-17 | 100 | 495 | 27 | 20 | 14 | 493 |
-| last720d | 2024-09-22 | 100 | 930 | 39 | 63 | 36 | 924 |
+| 30d | 2026-08-14 | 18 | 85 | 12 | 1 | 1 | 72 |
+| last60d | 2026-07-15 | 30 | 145 | 15 | 3 | 3 | 145 |
+| 90d | 2026-06-15 | 42 | 199 | 20 | 4 | 5 | 213 |
+| last180d | 2026-03-17 | 79 | 329 | 25 | 7 | 7 | 324 |
+| 360d | 2025-09-18 | 100 | 495 | 27 | 19 | 14 | 485 |
+| last720d | 2024-09-23 | 100 | 929 | 39 | 63 | 36 | 925 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for flyctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:06:44Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:21:33Z._
