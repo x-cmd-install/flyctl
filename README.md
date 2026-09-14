@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,703 · **Forks**: 309 · **Open issues**: 1,031 · **Contributors**: 226
+- **Stars**: 1,703 · **Forks**: 310 · **Open issues**: 1,031 · **Contributors**: 226
 
 ## Totals (cumulative)
 
-- **Releases**: 1371 · **Merged PRs**: 3546 · **Open PRs**: 47 · **Closed issues**: 862 · **Open issues**: 169 · **Commits**: 8169
+- **Releases**: 1371 · **Merged PRs**: 3546 · **Open PRs**: 48 · **Closed issues**: 862 · **Open issues**: 169 · **Commits**: 8169
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 18 | 85 | 12 | 1 | 1 | 72 |
-| last60d | 2026-07-15 | 30 | 145 | 15 | 3 | 3 | 145 |
-| 90d | 2026-06-15 | 42 | 199 | 20 | 4 | 5 | 213 |
-| last180d | 2026-03-17 | 79 | 329 | 25 | 7 | 7 | 324 |
-| 360d | 2025-09-18 | 100 | 495 | 27 | 19 | 14 | 485 |
-| last720d | 2024-09-23 | 100 | 929 | 39 | 63 | 36 | 925 |
+| 30d | 2026-08-15 | 18 | 85 | 13 | 1 | 1 | 72 |
+| last60d | 2026-07-16 | 30 | 144 | 15 | 3 | 3 | 145 |
+| 90d | 2026-06-16 | 42 | 198 | 21 | 4 | 5 | 213 |
+| last180d | 2026-03-18 | 78 | 327 | 26 | 7 | 7 | 324 |
+| 360d | 2025-09-19 | 100 | 491 | 28 | 19 | 14 | 485 |
+| last720d | 2024-09-24 | 100 | 928 | 40 | 63 | 36 | 923 |
 
 ## Release assets
 
@@ -77,15 +77,6 @@ Lowest-scoring checks:
 | [flyctl_0.4.102_Windows_arm64.zip](https://github.com/superfly/flyctl/releases/download/v0.4.102/flyctl_0.4.102_Windows_arm64.zip) | 44.8 MiB | `native/win/arm64` |
 | [flyctl_0.4.102_Windows_x86_64.zip](https://github.com/superfly/flyctl/releases/download/v0.4.102/flyctl_0.4.102_Windows_x86_64.zip) | 49.0 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **15** distros on [repology.org](https://repology.org/project/flyctl). **3** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.4.102` | ✅ latest |
-| Nix unstable | `0.4.97` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for flyctl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `flyctl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +86,4 @@ Install metadata for flyctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:21:33Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:26:08Z._
