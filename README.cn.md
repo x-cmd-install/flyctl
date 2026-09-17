@@ -26,11 +26,11 @@ x install flyctl
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.1 / 10**
+总评分: **5 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 9/29 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 7/30 approved changesets -- score normalized to 2
 - **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,22 +48,22 @@ x install flyctl
 
 ## 流行度
 
-- **Star**: 1,702 · **Fork**: 310 · **开放 issue**: 1,031 · **贡献者**: 226
+- **Star**: 1,703 · **Fork**: 311 · **开放 issue**: 1,032 · **贡献者**: 226
 
 ## 累计统计
 
-- **发布数**: 1373 · **已合并 PR**: 3547 · **开放 PR**: 48 · **已关闭 issue**: 862 · **开放 issue**: 169 · **提交数**: 8170
+- **发布数**: 1373 · **已合并 PR**: 3547 · **开放 PR**: 49 · **已关闭 issue**: 862 · **开放 issue**: 170 · **提交数**: 8170
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 20 | 85 | 12 | 1 | 1 | 73 |
-| last60d | 2026-07-18 | 32 | 144 | 14 | 3 | 3 | 146 |
-| 90d | 2026-06-18 | 44 | 199 | 21 | 4 | 5 | 214 |
-| last180d | 2026-03-20 | 78 | 321 | 26 | 7 | 7 | 325 |
-| 360d | 2025-09-21 | 100 | 492 | 28 | 19 | 14 | 486 |
-| last720d | 2024-09-26 | 100 | 925 | 40 | 63 | 36 | 919 |
+| 30d | 2026-08-18 | 19 | 84 | 12 | 1 | 2 | 73 |
+| last60d | 2026-07-19 | 32 | 144 | 15 | 3 | 4 | 146 |
+| 90d | 2026-06-19 | 44 | 199 | 22 | 4 | 6 | 214 |
+| last180d | 2026-03-21 | 77 | 321 | 27 | 7 | 8 | 325 |
+| 360d | 2025-09-22 | 100 | 488 | 29 | 19 | 15 | 486 |
+| last720d | 2024-09-27 | 100 | 922 | 41 | 63 | 37 | 917 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ flyctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260916.yml` · 2026-09-16T05:26:13Z._
+_数据快照: `data/card/260917.yml` · 2026-09-17T05:26:23Z._
