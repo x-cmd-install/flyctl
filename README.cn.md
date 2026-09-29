@@ -42,40 +42,40 @@ x install flyctl
 
 ## 发布
 
-- **最新版本**: `v0.4.108` (2026-09-24)
-- **最近提交**: 2026-09-26
+- **最新版本**: `v0.4.109` (2026-09-28)
+- **最近提交**: 2026-09-28
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 1,714 · **Fork**: 313 · **开放 issue**: 1,034 · **贡献者**: 228
+- **Star**: 1,714 · **Fork**: 314 · **开放 issue**: 1,035 · **贡献者**: 228
 
 ## 累计统计
 
-- **发布数**: 1377 · **已合并 PR**: 3580 · **开放 PR**: 53 · **已关闭 issue**: 863 · **开放 issue**: 171 · **提交数**: 8203
+- **发布数**: 1378 · **已合并 PR**: 3584 · **开放 PR**: 55 · **已关闭 issue**: 863 · **开放 issue**: 172 · **提交数**: 8207
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 12 | 75 | 13 | 1 | 3 | 54 |
-| last60d | 2026-07-30 | 31 | 157 | 19 | 4 | 5 | 164 |
-| 90d | 2026-06-30 | 45 | 223 | 22 | 4 | 6 | 213 |
-| last180d | 2026-04-01 | 78 | 347 | 31 | 8 | 9 | 354 |
-| 360d | 2025-10-03 | 100 | 505 | 33 | 20 | 16 | 500 |
-| last720d | 2024-10-08 | 100 | 941 | 45 | 64 | 37 | 935 |
+| 30d | 2026-08-30 | 13 | 79 | 15 | 1 | 4 | 58 |
+| last60d | 2026-07-31 | 31 | 159 | 21 | 3 | 6 | 168 |
+| 90d | 2026-07-01 | 45 | 218 | 24 | 4 | 6 | 217 |
+| last180d | 2026-04-02 | 79 | 350 | 33 | 8 | 10 | 358 |
+| 360d | 2025-10-04 | 100 | 509 | 35 | 20 | 17 | 504 |
+| last720d | 2024-10-09 | 100 | 943 | 47 | 62 | 38 | 938 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [flyctl_0.4.108_checksums.txt](https://github.com/superfly/flyctl/releases/download/v0.4.108/flyctl_0.4.108_checksums.txt) | 601 B | `other` |
-| [flyctl_0.4.108_Linux_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.108/flyctl_0.4.108_Linux_arm64.tar.gz) | 44.8 MiB | `native/linux/arm64` |
-| [flyctl_0.4.108_Linux_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.108/flyctl_0.4.108_Linux_x86_64.tar.gz) | 48.6 MiB | `native/linux/x64` |
-| [flyctl_0.4.108_macOS_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.108/flyctl_0.4.108_macOS_arm64.tar.gz) | 48.4 MiB | `native/darwin/arm64` |
-| [flyctl_0.4.108_macOS_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.108/flyctl_0.4.108_macOS_x86_64.tar.gz) | 51.2 MiB | `native/darwin/x64` |
-| [flyctl_0.4.108_Windows_arm64.zip](https://github.com/superfly/flyctl/releases/download/v0.4.108/flyctl_0.4.108_Windows_arm64.zip) | 45.0 MiB | `native/win/arm64` |
-| [flyctl_0.4.108_Windows_x86_64.zip](https://github.com/superfly/flyctl/releases/download/v0.4.108/flyctl_0.4.108_Windows_x86_64.zip) | 49.3 MiB | `native/win/x64` |
+| [flyctl_0.4.109_checksums.txt](https://github.com/superfly/flyctl/releases/download/v0.4.109/flyctl_0.4.109_checksums.txt) | 601 B | `other` |
+| [flyctl_0.4.109_Linux_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.109/flyctl_0.4.109_Linux_arm64.tar.gz) | 44.8 MiB | `native/linux/arm64` |
+| [flyctl_0.4.109_Linux_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.109/flyctl_0.4.109_Linux_x86_64.tar.gz) | 48.7 MiB | `native/linux/x64` |
+| [flyctl_0.4.109_macOS_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.109/flyctl_0.4.109_macOS_arm64.tar.gz) | 48.4 MiB | `native/darwin/arm64` |
+| [flyctl_0.4.109_macOS_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.109/flyctl_0.4.109_macOS_x86_64.tar.gz) | 51.3 MiB | `native/darwin/x64` |
+| [flyctl_0.4.109_Windows_arm64.zip](https://github.com/superfly/flyctl/releases/download/v0.4.109/flyctl_0.4.109_Windows_arm64.zip) | 45.0 MiB | `native/win/arm64` |
+| [flyctl_0.4.109_Windows_x86_64.zip](https://github.com/superfly/flyctl/releases/download/v0.4.109/flyctl_0.4.109_Windows_x86_64.zip) | 49.3 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -86,4 +86,4 @@ flyctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T05:52:57Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T06:06:43Z._

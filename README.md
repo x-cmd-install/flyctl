@@ -42,40 +42,40 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.4.108` (2026-09-24)
-- **Last commit**: 2026-09-26
+- **Latest**: `v0.4.109` (2026-09-28)
+- **Last commit**: 2026-09-28
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,714 · **Forks**: 313 · **Open issues**: 1,034 · **Contributors**: 228
+- **Stars**: 1,714 · **Forks**: 314 · **Open issues**: 1,035 · **Contributors**: 228
 
 ## Totals (cumulative)
 
-- **Releases**: 1377 · **Merged PRs**: 3580 · **Open PRs**: 53 · **Closed issues**: 863 · **Open issues**: 171 · **Commits**: 8203
+- **Releases**: 1378 · **Merged PRs**: 3584 · **Open PRs**: 55 · **Closed issues**: 863 · **Open issues**: 172 · **Commits**: 8207
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 12 | 75 | 13 | 1 | 3 | 54 |
-| last60d | 2026-07-30 | 31 | 157 | 19 | 4 | 5 | 164 |
-| 90d | 2026-06-30 | 45 | 223 | 22 | 4 | 6 | 213 |
-| last180d | 2026-04-01 | 78 | 347 | 31 | 8 | 9 | 354 |
-| 360d | 2025-10-03 | 100 | 505 | 33 | 20 | 16 | 500 |
-| last720d | 2024-10-08 | 100 | 941 | 45 | 64 | 37 | 935 |
+| 30d | 2026-08-30 | 13 | 79 | 15 | 1 | 4 | 58 |
+| last60d | 2026-07-31 | 31 | 159 | 21 | 3 | 6 | 168 |
+| 90d | 2026-07-01 | 45 | 218 | 24 | 4 | 6 | 217 |
+| last180d | 2026-04-02 | 79 | 350 | 33 | 8 | 10 | 358 |
+| 360d | 2025-10-04 | 100 | 509 | 35 | 20 | 17 | 504 |
+| last720d | 2024-10-09 | 100 | 943 | 47 | 62 | 38 | 938 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [flyctl_0.4.108_checksums.txt](https://github.com/superfly/flyctl/releases/download/v0.4.108/flyctl_0.4.108_checksums.txt) | 601 B | `other` |
-| [flyctl_0.4.108_Linux_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.108/flyctl_0.4.108_Linux_arm64.tar.gz) | 44.8 MiB | `native/linux/arm64` |
-| [flyctl_0.4.108_Linux_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.108/flyctl_0.4.108_Linux_x86_64.tar.gz) | 48.6 MiB | `native/linux/x64` |
-| [flyctl_0.4.108_macOS_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.108/flyctl_0.4.108_macOS_arm64.tar.gz) | 48.4 MiB | `native/darwin/arm64` |
-| [flyctl_0.4.108_macOS_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.108/flyctl_0.4.108_macOS_x86_64.tar.gz) | 51.2 MiB | `native/darwin/x64` |
-| [flyctl_0.4.108_Windows_arm64.zip](https://github.com/superfly/flyctl/releases/download/v0.4.108/flyctl_0.4.108_Windows_arm64.zip) | 45.0 MiB | `native/win/arm64` |
-| [flyctl_0.4.108_Windows_x86_64.zip](https://github.com/superfly/flyctl/releases/download/v0.4.108/flyctl_0.4.108_Windows_x86_64.zip) | 49.3 MiB | `native/win/x64` |
+| [flyctl_0.4.109_checksums.txt](https://github.com/superfly/flyctl/releases/download/v0.4.109/flyctl_0.4.109_checksums.txt) | 601 B | `other` |
+| [flyctl_0.4.109_Linux_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.109/flyctl_0.4.109_Linux_arm64.tar.gz) | 44.8 MiB | `native/linux/arm64` |
+| [flyctl_0.4.109_Linux_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.109/flyctl_0.4.109_Linux_x86_64.tar.gz) | 48.7 MiB | `native/linux/x64` |
+| [flyctl_0.4.109_macOS_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.109/flyctl_0.4.109_macOS_arm64.tar.gz) | 48.4 MiB | `native/darwin/arm64` |
+| [flyctl_0.4.109_macOS_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.109/flyctl_0.4.109_macOS_x86_64.tar.gz) | 51.3 MiB | `native/darwin/x64` |
+| [flyctl_0.4.109_Windows_arm64.zip](https://github.com/superfly/flyctl/releases/download/v0.4.109/flyctl_0.4.109_Windows_arm64.zip) | 45.0 MiB | `native/win/arm64` |
+| [flyctl_0.4.109_Windows_x86_64.zip](https://github.com/superfly/flyctl/releases/download/v0.4.109/flyctl_0.4.109_Windows_x86_64.zip) | 49.3 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for flyctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:52:57Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:06:41Z._
