@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,717 · **Forks**: 317 · **Open issues**: 1,044 · **Contributors**: 229
+- **Stars**: 1,717 · **Forks**: 317 · **Open issues**: 1,045 · **Contributors**: 229
 
 ## Totals (cumulative)
 
-- **Releases**: 1380 · **Merged PRs**: 3595 · **Open PRs**: 63 · **Closed issues**: 865 · **Open issues**: 179 · **Commits**: 8218
+- **Releases**: 1380 · **Merged PRs**: 3595 · **Open PRs**: 63 · **Closed issues**: 865 · **Open issues**: 180 · **Commits**: 8218
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 12 | 58 | 23 | 3 | 11 | 50 |
-| last60d | 2026-08-05 | 32 | 162 | 29 | 5 | 12 | 148 |
-| 90d | 2026-07-06 | 44 | 214 | 32 | 6 | 13 | 211 |
-| last180d | 2026-04-07 | 80 | 358 | 41 | 10 | 16 | 350 |
-| 360d | 2025-10-09 | 100 | 514 | 43 | 22 | 24 | 508 |
-| last720d | 2024-10-14 | 100 | 950 | 53 | 64 | 44 | 947 |
+| 30d | 2026-09-05 | 12 | 58 | 23 | 3 | 12 | 50 |
+| last60d | 2026-08-06 | 31 | 162 | 29 | 5 | 13 | 148 |
+| 90d | 2026-07-07 | 43 | 210 | 32 | 6 | 14 | 211 |
+| last180d | 2026-04-08 | 79 | 354 | 41 | 10 | 17 | 350 |
+| 360d | 2025-10-10 | 100 | 513 | 43 | 22 | 25 | 508 |
+| last720d | 2024-10-15 | 100 | 946 | 53 | 64 | 45 | 947 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for flyctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:18:08Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:12:04Z._
