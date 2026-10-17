@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 601,
       "digest": "sha256:511cdb874b5117afb193a9b063a8083c5fe55980f2d9ef7d480989464c8ba83b",
-      "download_count": 95,
+      "download_count": 145,
       "created_at": "2026-10-14T19:13:29Z",
       "updated_at": "2026-10-14T19:13:29Z",
       "browser_download_url": "https://github.com/superfly/flyctl/releases/download/v0.4.118/flyctl_0.4.118_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 47008068,
       "digest": "sha256:8b9ae409107d5e268895214e773881904a81d56b9593c14c6b41639f05e25faa",
-      "download_count": 1903,
+      "download_count": 2962,
       "created_at": "2026-10-14T19:13:25Z",
       "updated_at": "2026-10-14T19:13:28Z",
       "browser_download_url": "https://github.com/superfly/flyctl/releases/download/v0.4.118/flyctl_0.4.118_Linux_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 51094708,
       "digest": "sha256:0f2fabbb29904a7bac8bd96009314d26751084c33e098fcc393e2dac6c472f60",
-      "download_count": 45691,
+      "download_count": 77464,
       "created_at": "2026-10-14T19:13:25Z",
       "updated_at": "2026-10-14T19:13:28Z",
       "browser_download_url": "https://github.com/superfly/flyctl/releases/download/v0.4.118/flyctl_0.4.118_Linux_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 50788653,
       "digest": "sha256:ce319226af327b69cd00ea1a05a9b90108278e17f89a54e8e3830c409e099287",
-      "download_count": 1419,
+      "download_count": 2166,
       "created_at": "2026-10-14T19:13:25Z",
       "updated_at": "2026-10-14T19:13:28Z",
       "browser_download_url": "https://github.com/superfly/flyctl/releases/download/v0.4.118/flyctl_0.4.118_macOS_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 53793073,
       "digest": "sha256:1ee5049774d3b4866dac7b65715005e6e6d86c539096290e1824892760cf9547",
-      "download_count": 185,
+      "download_count": 302,
       "created_at": "2026-10-14T19:13:25Z",
       "updated_at": "2026-10-14T19:13:31Z",
       "browser_download_url": "https://github.com/superfly/flyctl/releases/download/v0.4.118/flyctl_0.4.118_macOS_x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 47274149,
       "digest": "sha256:1e48aad81dd877bc2ed920c0f64ed44bb28364f0b60e011dd49695ac13602724",
-      "download_count": 39,
+      "download_count": 69,
       "created_at": "2026-10-14T19:13:29Z",
       "updated_at": "2026-10-14T19:13:31Z",
       "browser_download_url": "https://github.com/superfly/flyctl/releases/download/v0.4.118/flyctl_0.4.118_Windows_arm64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 51735267,
       "digest": "sha256:a630dce804b7a2b9dcee2bdf150b01792ab381982ed3c9820f1e1ffeb481bae2",
-      "download_count": 1467,
+      "download_count": 2424,
       "created_at": "2026-10-14T19:13:29Z",
       "updated_at": "2026-10-14T19:13:31Z",
       "browser_download_url": "https://github.com/superfly/flyctl/releases/download/v0.4.118/flyctl_0.4.118_Windows_x86_64.zip"
