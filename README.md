@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 14 | 60 | 21 | 4 | 12 | 67 |
-| last60d | 2026-08-18 | 33 | 151 | 25 | 6 | 13 | 158 |
-| 90d | 2026-07-19 | 46 | 211 | 28 | 8 | 15 | 218 |
-| last180d | 2026-04-20 | 81 | 345 | 38 | 11 | 18 | 348 |
-| 360d | 2025-10-22 | 100 | 522 | 42 | 24 | 26 | 522 |
-| last720d | 2024-10-27 | 100 | 938 | 52 | 65 | 43 | 934 |
+| 30d | 2026-09-18 | 14 | 57 | 20 | 4 | 11 | 38 |
+| last60d | 2026-08-19 | 32 | 144 | 25 | 6 | 13 | 125 |
+| 90d | 2026-07-20 | 46 | 210 | 28 | 8 | 15 | 204 |
+| last180d | 2026-04-21 | 80 | 340 | 38 | 11 | 18 | 332 |
+| 360d | 2025-10-23 | 100 | 520 | 42 | 24 | 26 | 515 |
+| last720d | 2024-10-28 | 100 | 933 | 52 | 65 | 43 | 934 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for flyctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:41:31Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:51:38Z._
