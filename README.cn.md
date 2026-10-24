@@ -14,11 +14,11 @@ x install flyctl
 
 ## 代码洞察
 
-合计: **126,998** 行代码（覆盖前 5 种语言、共 **904** 个文件）。
+合计: **128,146** 行代码（覆盖前 5 种语言、共 **912** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 115,363 | 7,593 | 24,268 | 822 |
+| Go | 116,511 | 7,682 | 24,477 | 830 |
 | Graphql | 9,820 | 1 | 1,498 | 2 |
 | Toml | 691 | 40 | 173 | 45 |
 | Dockerfile | 409 | 105 | 171 | 22 |
@@ -42,48 +42,48 @@ x install flyctl
 
 ## 发布
 
-- **最新版本**: `v0.4.121` (2026-10-22)
-- **最近提交**: 2026-10-22
+- **最新版本**: `v0.4.122` (2026-10-23)
+- **最近提交**: 2026-10-24
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 1,718 · **Fork**: 318 · **开放 issue**: 1,049 · **贡献者**: 231
+- **Star**: 1,719 · **Fork**: 318 · **开放 issue**: 1,049 · **贡献者**: 231
 
 ## 累计统计
 
-- **发布数**: 1390 · **已合并 PR**: 3618 · **开放 PR**: 65 · **已关闭 issue**: 868 · **开放 issue**: 181 · **提交数**: 8241
+- **发布数**: 1391 · **已合并 PR**: 3622 · **开放 PR**: 65 · **已关闭 issue**: 868 · **开放 issue**: 181 · **提交数**: 8245
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 15 | 42 | 20 | 5 | 11 | 42 |
-| last60d | 2026-08-24 | 33 | 129 | 26 | 6 | 13 | 129 |
-| 90d | 2026-07-25 | 46 | 198 | 31 | 9 | 15 | 208 |
-| last180d | 2026-04-26 | 80 | 334 | 39 | 12 | 18 | 336 |
-| 360d | 2025-10-28 | 100 | 521 | 45 | 25 | 26 | 519 |
-| last720d | 2024-11-02 | 100 | 934 | 55 | 66 | 43 | 931 |
+| 30d | 2026-09-24 | 15 | 45 | 18 | 5 | 11 | 46 |
+| last60d | 2026-08-25 | 32 | 129 | 26 | 6 | 13 | 133 |
+| 90d | 2026-07-26 | 47 | 202 | 31 | 9 | 15 | 212 |
+| last180d | 2026-04-27 | 81 | 334 | 39 | 12 | 18 | 340 |
+| 360d | 2025-10-29 | 100 | 522 | 45 | 25 | 26 | 523 |
+| last720d | 2024-11-03 | 100 | 938 | 55 | 66 | 43 | 935 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [flyctl_0.4.121_checksums.txt](https://github.com/superfly/flyctl/releases/download/v0.4.121/flyctl_0.4.121_checksums.txt) | 601 B | `other` |
-| [flyctl_0.4.121_Linux_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.121/flyctl_0.4.121_Linux_arm64.tar.gz) | 44.9 MiB | `native/linux/arm64` |
-| [flyctl_0.4.121_Linux_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.121/flyctl_0.4.121_Linux_x86_64.tar.gz) | 48.8 MiB | `native/linux/x64` |
-| [flyctl_0.4.121_macOS_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.121/flyctl_0.4.121_macOS_arm64.tar.gz) | 48.5 MiB | `native/darwin/arm64` |
-| [flyctl_0.4.121_macOS_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.121/flyctl_0.4.121_macOS_x86_64.tar.gz) | 51.4 MiB | `native/darwin/x64` |
-| [flyctl_0.4.121_Windows_arm64.zip](https://github.com/superfly/flyctl/releases/download/v0.4.121/flyctl_0.4.121_Windows_arm64.zip) | 45.2 MiB | `native/win/arm64` |
-| [flyctl_0.4.121_Windows_x86_64.zip](https://github.com/superfly/flyctl/releases/download/v0.4.121/flyctl_0.4.121_Windows_x86_64.zip) | 49.4 MiB | `native/win/x64` |
+| [flyctl_0.4.122_checksums.txt](https://github.com/superfly/flyctl/releases/download/v0.4.122/flyctl_0.4.122_checksums.txt) | 601 B | `other` |
+| [flyctl_0.4.122_Linux_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.122/flyctl_0.4.122_Linux_arm64.tar.gz) | 44.9 MiB | `native/linux/arm64` |
+| [flyctl_0.4.122_Linux_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.122/flyctl_0.4.122_Linux_x86_64.tar.gz) | 48.8 MiB | `native/linux/x64` |
+| [flyctl_0.4.122_macOS_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.122/flyctl_0.4.122_macOS_arm64.tar.gz) | 48.5 MiB | `native/darwin/arm64` |
+| [flyctl_0.4.122_macOS_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.4.122/flyctl_0.4.122_macOS_x86_64.tar.gz) | 51.4 MiB | `native/darwin/x64` |
+| [flyctl_0.4.122_Windows_arm64.zip](https://github.com/superfly/flyctl/releases/download/v0.4.122/flyctl_0.4.122_Windows_arm64.zip) | 45.2 MiB | `native/win/arm64` |
+| [flyctl_0.4.122_Windows_x86_64.zip](https://github.com/superfly/flyctl/releases/download/v0.4.122/flyctl_0.4.122_Windows_x86_64.zip) | 49.4 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/flyctl) 上共有 **15** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**12** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/flyctl) 上共有 **15** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.4.121` | ✅ latest |
+| Homebrew | `0.4.122` | ✅ latest |
 | Nix unstable | `0.4.118` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -95,4 +95,4 @@ flyctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261023.yml` · 2026-10-23T05:16:07Z._
+_数据快照: `data/card/261024.yml` · 2026-10-24T04:53:40Z._
