@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: flyctl
+  visiblename: flyctl
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Command-line tools for fly.io services
 - repo: aur
   srcname: flyctl
   binname: flyctl
@@ -25,9 +32,9 @@
 - repo: chocolatey
   binname: flyctl
   visiblename: flyctl
-  version: 0.4.118
+  version: 0.4.122
   origversion: null
-  status: outdated
+  status: newest
   summary: flyctl – flyctl is a command-line interface for fly.io
 - repo: homebrew
   srcname: flyctl
@@ -35,13 +42,6 @@
   version: 0.4.122
   origversion: null
   status: newest
-  summary: Command-line tools for fly.io services
-- repo: homebrew
-  srcname: flyctl
-  visiblename: flyctl
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Command-line tools for fly.io services
 - repo: macports
   srcname: devel/flyctl
