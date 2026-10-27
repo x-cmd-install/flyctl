@@ -1,17 +1,10 @@
-- repo: homebrew
-  srcname: flyctl
-  visiblename: flyctl
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Command-line tools for fly.io services
 - repo: aur
   srcname: flyctl
   binname: flyctl
   visiblename: flyctl
-  version: 0.4.121
-  origversion: 0.4.121-1
-  status: outdated
+  version: 0.4.123
+  origversion: 0.4.123-1
+  status: newest
   summary: Command line tools for fly.io services
   maintainers:
     - ringo@aur
@@ -21,9 +14,9 @@
   srcname: flyctl-bin
   binname: flyctl-bin
   visiblename: flyctl-bin
-  version: 0.4.120
-  origversion: 0.4.120-1
-  status: outdated
+  version: 0.4.123
+  origversion: 0.4.123-1
+  status: newest
   summary: Command line tools for fly.io services
   maintainers:
     - ringo@aur
@@ -34,20 +27,27 @@
   visiblename: flyctl
   version: 0.4.122
   origversion: null
-  status: newest
+  status: outdated
   summary: flyctl – flyctl is a command-line interface for fly.io
 - repo: homebrew
   srcname: flyctl
   visiblename: flyctl
-  version: 0.4.122
+  version: 0.4.123
   origversion: null
   status: newest
+  summary: Command-line tools for fly.io services
+- repo: homebrew
+  srcname: flyctl
+  visiblename: flyctl
+  version: HEAD
+  origversion: null
+  status: rolling
   summary: Command-line tools for fly.io services
 - repo: macports
   srcname: devel/flyctl
   binname: flyctl
   visiblename: flyctl
-  version: 0.4.122
+  version: 0.4.123
   origversion: null
   status: newest
   summary: Command line tools for fly.io services
@@ -157,7 +157,7 @@
   subrepo: main
   binname: flyctl
   visiblename: flyctl
-  version: 0.4.122
+  version: 0.4.123
   origversion: null
   status: newest
   licenses:
@@ -168,7 +168,7 @@
   visiblename: flyctl
   version: 0.4.122
   origversion: null
-  status: newest
+  status: outdated
   summary: Command line tools for fly.io services
   maintainers:
     - thunder-coding@termux.dev
