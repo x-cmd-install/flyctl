@@ -26,12 +26,12 @@ Total: **128,147** lines of code across **912** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.5 / 10**
+Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
-- **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,719 · **Forks**: 319 · **Open issues**: 1,049 · **Contributors**: 231
+- **Stars**: 1,719 · **Forks**: 320 · **Open issues**: 1,050 · **Contributors**: 231
 
 ## Totals (cumulative)
 
-- **Releases**: 1392 · **Merged PRs**: 3625 · **Open PRs**: 58 · **Closed issues**: 868 · **Open issues**: 181 · **Commits**: 8248
+- **Releases**: 1392 · **Merged PRs**: 3625 · **Open PRs**: 59 · **Closed issues**: 868 · **Open issues**: 182 · **Commits**: 8248
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 15 | 44 | 12 | 5 | 10 | 30 |
-| last60d | 2026-08-28 | 27 | 120 | 18 | 6 | 13 | 111 |
-| 90d | 2026-07-29 | 47 | 202 | 24 | 9 | 15 | 210 |
-| last180d | 2026-04-30 | 79 | 325 | 32 | 11 | 18 | 326 |
-| 360d | 2025-11-01 | 100 | 523 | 38 | 25 | 26 | 521 |
-| last720d | 2024-11-06 | 100 | 939 | 48 | 66 | 43 | 935 |
+| 30d | 2026-09-28 | 15 | 40 | 13 | 5 | 10 | 30 |
+| last60d | 2026-08-29 | 27 | 120 | 19 | 6 | 14 | 111 |
+| 90d | 2026-07-30 | 46 | 202 | 25 | 9 | 16 | 210 |
+| last180d | 2026-05-01 | 78 | 324 | 33 | 11 | 19 | 326 |
+| 360d | 2025-11-02 | 100 | 523 | 39 | 25 | 27 | 521 |
+| last720d | 2024-11-07 | 100 | 937 | 49 | 65 | 44 | 935 |
 
 ## Release assets
 
@@ -79,7 +79,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **15** distros on [repology.org](https://repology.org/project/flyctl). **5** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **15** distros on [repology.org](https://repology.org/project/flyctl). **6** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -95,4 +95,4 @@ Install metadata for flyctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:27:58Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:57:00Z._
