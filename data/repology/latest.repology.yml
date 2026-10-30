@@ -1,9 +1,23 @@
+- repo: homebrew
+  srcname: flyctl
+  visiblename: flyctl
+  version: 0.5.1
+  origversion: null
+  status: newest
+  summary: Command-line tools for fly.io services
+- repo: homebrew
+  srcname: flyctl
+  visiblename: flyctl
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Command-line tools for fly.io services
 - repo: aur
   srcname: flyctl
   binname: flyctl
   visiblename: flyctl
-  version: 0.5.0
-  origversion: 0.5.0-1
+  version: 0.5.1
+  origversion: 0.5.1-1
   status: newest
   summary: Command line tools for fly.io services
   maintainers:
@@ -14,8 +28,8 @@
   srcname: flyctl-bin
   binname: flyctl-bin
   visiblename: flyctl-bin
-  version: 0.5.0
-  origversion: 0.5.0-1
+  version: 0.5.1
+  origversion: 0.5.1-1
   status: newest
   summary: Command line tools for fly.io services
   maintainers:
@@ -29,27 +43,13 @@
   origversion: null
   status: outdated
   summary: flyctl – flyctl is a command-line interface for fly.io
-- repo: homebrew
-  srcname: flyctl
-  visiblename: flyctl
-  version: 0.5.0
-  origversion: null
-  status: newest
-  summary: Command-line tools for fly.io services
-- repo: homebrew
-  srcname: flyctl
-  visiblename: flyctl
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Command-line tools for fly.io services
 - repo: macports
   srcname: devel/flyctl
   binname: flyctl
   visiblename: flyctl
   version: 0.5.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Command line tools for fly.io services
   maintainers:
     - jamesog@github
@@ -133,7 +133,7 @@
 - repo: nix_unstable
   srcname: flyctl
   visiblename: flyctl
-  version: 0.4.118
+  version: 0.4.123
   origversion: null
   status: outdated
   summary: Command line tools for fly.io services
@@ -157,7 +157,7 @@
   subrepo: main
   binname: flyctl
   visiblename: flyctl
-  version: 0.5.0
+  version: 0.5.1
   origversion: null
   status: newest
   licenses:
@@ -168,7 +168,7 @@
   visiblename: flyctl
   version: 0.5.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Command line tools for fly.io services
   maintainers:
     - thunder-coding@termux.dev
