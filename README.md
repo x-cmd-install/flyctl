@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 1394 · **Merged PRs**: 3633 · **Open PRs**: 67 · **Closed issues**: 868 · **Open issues**: 183 · **Commits**: 8256
+- **Releases**: 1394 · **Merged PRs**: 3633 · **Open PRs**: 70 · **Closed issues**: 868 · **Open issues**: 183 · **Commits**: 8256
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 14 | 36 | 17 | 3 | 5 | 38 |
-| last60d | 2026-09-01 | 28 | 114 | 27 | 6 | 15 | 119 |
-| 90d | 2026-08-02 | 47 | 208 | 33 | 8 | 17 | 218 |
-| last180d | 2026-05-04 | 79 | 328 | 41 | 10 | 20 | 334 |
-| 360d | 2025-11-05 | 100 | 527 | 47 | 25 | 28 | 529 |
-| last720d | 2024-11-10 | 100 | 941 | 57 | 65 | 45 | 938 |
+| 30d | 2026-10-02 | 14 | 36 | 20 | 3 | 5 | 24 |
+| last60d | 2026-09-02 | 27 | 105 | 30 | 6 | 15 | 90 |
+| 90d | 2026-08-03 | 47 | 205 | 36 | 8 | 17 | 199 |
+| last180d | 2026-05-05 | 78 | 327 | 44 | 10 | 20 | 322 |
+| 360d | 2025-11-06 | 100 | 525 | 50 | 25 | 28 | 517 |
+| last720d | 2024-11-11 | 100 | 938 | 60 | 65 | 45 | 938 |
 
 ## Release assets
 
@@ -79,11 +79,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **15** distros on [repology.org](https://repology.org/project/flyctl). **5** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **15** distros on [repology.org](https://repology.org/project/flyctl). **6** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.5.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `0.4.123` | ⚠️ outdated |
 
 ## Improve this data
@@ -95,4 +95,4 @@ Install metadata for flyctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:58:07Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:25:54Z._
