@@ -14,11 +14,11 @@ x install flyctl
 
 ## 代码洞察
 
-合计: **136,647** 行代码（覆盖前 5 种语言、共 **951** 个文件）。
+合计: **137,486** 行代码（覆盖前 5 种语言、共 **958** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 125,006 | 8,443 | 25,774 | 869 |
+| Go | 125,845 | 8,512 | 25,937 | 876 |
 | Graphql | 9,820 | 1 | 1,498 | 2 |
 | Toml | 691 | 40 | 173 | 45 |
 | Dockerfile | 409 | 105 | 171 | 22 |
@@ -26,13 +26,13 @@ x install flyctl
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.3 / 10**
+总评分: **5.4 / 10**
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (3/10) — Found 11/29 approved changesets -- score normalized to 3
 - **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -42,40 +42,40 @@ x install flyctl
 
 ## 发布
 
-- **最新版本**: `v0.5.3` (2026-11-03)
-- **最近提交**: 2026-11-03
+- **最新版本**: `v0.5.4` (2026-11-04)
+- **最近提交**: 2026-11-04
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 1,718 · **Fork**: 321 · **开放 issue**: 1,051 · **贡献者**: 233
+- **Star**: 1,718 · **Fork**: 320 · **开放 issue**: 1,052 · **贡献者**: 234
 
 ## 累计统计
 
-- **发布数**: 1396 · **已合并 PR**: 3640 · **开放 PR**: 74 · **已关闭 issue**: 869 · **开放 issue**: 182 · **提交数**: 8263
+- **发布数**: 1397 · **已合并 PR**: 3644 · **开放 PR**: 79 · **已关闭 issue**: 869 · **开放 issue**: 183 · **提交数**: 8267
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 16 | 37 | 25 | 3 | 3 | 31 |
-| last60d | 2026-09-05 | 28 | 103 | 34 | 7 | 14 | 97 |
-| 90d | 2026-08-06 | 47 | 207 | 40 | 9 | 15 | 206 |
-| last180d | 2026-05-08 | 77 | 328 | 48 | 11 | 19 | 329 |
-| 360d | 2025-11-09 | 100 | 527 | 54 | 26 | 27 | 524 |
-| last720d | 2024-11-14 | 100 | 943 | 64 | 65 | 44 | 939 |
+| 30d | 2026-10-06 | 16 | 36 | 30 | 1 | 4 | 35 |
+| last60d | 2026-09-06 | 29 | 107 | 39 | 7 | 15 | 101 |
+| 90d | 2026-08-07 | 48 | 211 | 45 | 9 | 15 | 210 |
+| last180d | 2026-05-09 | 78 | 332 | 53 | 11 | 20 | 333 |
+| 360d | 2025-11-10 | 100 | 527 | 58 | 26 | 28 | 528 |
+| last720d | 2024-11-15 | 100 | 943 | 69 | 65 | 45 | 943 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [flyctl_0.5.3_checksums.txt](https://github.com/superfly/flyctl/releases/download/v0.5.3/flyctl_0.5.3_checksums.txt) | 589 B | `other` |
-| [flyctl_0.5.3_Linux_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.3/flyctl_0.5.3_Linux_arm64.tar.gz) | 45.6 MiB | `native/linux/arm64` |
-| [flyctl_0.5.3_Linux_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.3/flyctl_0.5.3_Linux_x86_64.tar.gz) | 49.5 MiB | `native/linux/x64` |
-| [flyctl_0.5.3_macOS_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.3/flyctl_0.5.3_macOS_arm64.tar.gz) | 49.2 MiB | `native/darwin/arm64` |
-| [flyctl_0.5.3_macOS_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.3/flyctl_0.5.3_macOS_x86_64.tar.gz) | 52.1 MiB | `native/darwin/x64` |
-| [flyctl_0.5.3_Windows_arm64.zip](https://github.com/superfly/flyctl/releases/download/v0.5.3/flyctl_0.5.3_Windows_arm64.zip) | 45.8 MiB | `native/win/arm64` |
-| [flyctl_0.5.3_Windows_x86_64.zip](https://github.com/superfly/flyctl/releases/download/v0.5.3/flyctl_0.5.3_Windows_x86_64.zip) | 50.1 MiB | `native/win/x64` |
+| [flyctl_0.5.4_checksums.txt](https://github.com/superfly/flyctl/releases/download/v0.5.4/flyctl_0.5.4_checksums.txt) | 589 B | `other` |
+| [flyctl_0.5.4_Linux_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.4/flyctl_0.5.4_Linux_arm64.tar.gz) | 45.6 MiB | `native/linux/arm64` |
+| [flyctl_0.5.4_Linux_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.4/flyctl_0.5.4_Linux_x86_64.tar.gz) | 49.5 MiB | `native/linux/x64` |
+| [flyctl_0.5.4_macOS_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.4/flyctl_0.5.4_macOS_arm64.tar.gz) | 49.2 MiB | `native/darwin/arm64` |
+| [flyctl_0.5.4_macOS_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.4/flyctl_0.5.4_macOS_x86_64.tar.gz) | 52.1 MiB | `native/darwin/x64` |
+| [flyctl_0.5.4_Windows_arm64.zip](https://github.com/superfly/flyctl/releases/download/v0.5.4/flyctl_0.5.4_Windows_arm64.zip) | 45.8 MiB | `native/win/arm64` |
+| [flyctl_0.5.4_Windows_x86_64.zip](https://github.com/superfly/flyctl/releases/download/v0.5.4/flyctl_0.5.4_Windows_x86_64.zip) | 50.1 MiB | `native/win/x64` |
 
 ## 发行版状态
 
@@ -83,7 +83,7 @@ x install flyctl
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.5.4` | ✅ latest |
 | Nix unstable | `0.4.123` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -95,4 +95,4 @@ flyctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T06:43:53Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T07:05:39Z._
