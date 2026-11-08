@@ -14,11 +14,11 @@ x install flyctl
 
 ## Code insight
 
-Total: **137,917** lines of code across **959** files in the top 5 languages.
+Total: **141,338** lines of code across **972** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 126,276 | 8,551 | 25,999 | 877 |
+| Go | 129,697 | 8,820 | 26,480 | 890 |
 | Graphql | 9,820 | 1 | 1,498 | 2 |
 | Toml | 691 | 40 | 173 | 45 |
 | Dockerfile | 409 | 105 | 171 | 22 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.5.5` (2026-11-05)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-08
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,718 · **Forks**: 320 · **Open issues**: 1,053 · **Contributors**: 234
+- **Stars**: 1,718 · **Forks**: 322 · **Open issues**: 1,054 · **Contributors**: 239
 
 ## Totals (cumulative)
 
-- **Releases**: 1398 · **Merged PRs**: 3647 · **Open PRs**: 77 · **Closed issues**: 869 · **Open issues**: 184 · **Commits**: 8270
+- **Releases**: 1398 · **Merged PRs**: 3673 · **Open PRs**: 69 · **Closed issues**: 885 · **Open issues**: 169 · **Commits**: 8296
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 15 | 34 | 30 | 1 | 5 | 38 |
-| last60d | 2026-09-08 | 29 | 100 | 36 | 7 | 16 | 104 |
-| 90d | 2026-08-09 | 48 | 211 | 43 | 9 | 16 | 213 |
-| last180d | 2026-05-11 | 79 | 330 | 51 | 11 | 21 | 336 |
-| 360d | 2025-11-12 | 100 | 523 | 56 | 24 | 29 | 531 |
-| last720d | 2024-11-17 | 100 | 945 | 67 | 64 | 46 | 942 |
+| 30d | 2026-10-09 | 14 | 58 | 27 | 3 | 4 | 61 |
+| last60d | 2026-09-09 | 28 | 126 | 31 | 10 | 14 | 126 |
+| 90d | 2026-08-10 | 48 | 232 | 38 | 12 | 14 | 220 |
+| last180d | 2026-05-12 | 78 | 353 | 46 | 15 | 18 | 350 |
+| 360d | 2025-11-13 | 100 | 548 | 51 | 29 | 25 | 549 |
+| last720d | 2024-11-18 | 100 | 971 | 61 | 72 | 39 | 968 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for flyctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:34:12Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:19:43Z._
