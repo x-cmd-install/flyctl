@@ -1,23 +1,28 @@
-- repo: homebrew
-  srcname: flyctl
+- repo: scoop
+  subrepo: main
+  binname: flyctl
   visiblename: flyctl
-  version: 0.5.8
+  version: 0.5.10
   origversion: null
   status: newest
-  summary: Command-line tools for fly.io services
-- repo: homebrew
-  srcname: flyctl
-  visiblename: flyctl
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Command-line tools for fly.io services
+  licenses:
+    - Apache-2.0
+- repo: pacstall
+  srcname: flyctl-bin
+  binname: flyctl-bin
+  visiblename: flyctl-bin
+  version: 0.4.60
+  origversion: 0.4.60-1
+  status: outdated
+  summary: Command line tool for fly.io services
+  maintainers:
+    - andrew@raindev.io
 - repo: aur
   srcname: flyctl
   binname: flyctl
   visiblename: flyctl
-  version: 0.5.8
-  origversion: 0.5.8-1
+  version: 0.5.10
+  origversion: 0.5.10-1
   status: newest
   summary: Command line tools for fly.io services
   maintainers:
@@ -28,8 +33,8 @@
   srcname: flyctl-bin
   binname: flyctl-bin
   visiblename: flyctl-bin
-  version: 0.5.8
-  origversion: 0.5.8-1
+  version: 0.5.10
+  origversion: 0.5.10-1
   status: newest
   summary: Command line tools for fly.io services
   maintainers:
@@ -43,6 +48,20 @@
   origversion: null
   status: outdated
   summary: flyctl – flyctl is a command-line interface for fly.io
+- repo: homebrew
+  srcname: flyctl
+  visiblename: flyctl
+  version: 0.5.10
+  origversion: null
+  status: newest
+  summary: Command-line tools for fly.io services
+- repo: homebrew
+  srcname: flyctl
+  visiblename: flyctl
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Command-line tools for fly.io services
 - repo: macports
   srcname: devel/flyctl
   binname: flyctl
@@ -133,7 +152,7 @@
 - repo: nix_unstable
   srcname: flyctl
   visiblename: flyctl
-  version: 0.4.123
+  version: 0.5.5
   origversion: null
   status: outdated
   summary: Command line tools for fly.io services
@@ -143,30 +162,11 @@
     - schahin@rouhanizadeh.de
   licenses:
     - Apache-2.0
-- repo: pacstall
-  srcname: flyctl-bin
-  binname: flyctl-bin
-  visiblename: flyctl-bin
-  version: 0.4.60
-  origversion: 0.4.60-1
-  status: outdated
-  summary: Command line tool for fly.io services
-  maintainers:
-    - andrew@raindev.io
-- repo: scoop
-  subrepo: main
-  binname: flyctl
-  visiblename: flyctl
-  version: 0.5.8
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0
 - repo: termux
   srcname: flyctl
   binname: flyctl
   visiblename: flyctl
-  version: 0.5.8
+  version: 0.5.10
   origversion: null
   status: newest
   summary: Command line tools for fly.io services
