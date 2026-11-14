@@ -14,11 +14,11 @@ x install flyctl
 
 ## Code insight
 
-Total: **144,369** lines of code across **998** files in the top 5 languages.
+Total: **144,987** lines of code across **1002** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 132,728 | 9,036 | 26,815 | 916 |
+| Go | 133,346 | 9,060 | 26,925 | 920 |
 | Graphql | 9,820 | 1 | 1,498 | 2 |
 | Toml | 691 | 40 | 173 | 45 |
 | Dockerfile | 409 | 105 | 171 | 22 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.5.10` (2026-11-12)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-13
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,719 · **Forks**: 327 · **Open issues**: 1,061 · **Contributors**: 239
+- **Stars**: 1,720 · **Forks**: 328 · **Open issues**: 1,062 · **Contributors**: 239
 
 ## Totals (cumulative)
 
-- **Releases**: 1403 · **Merged PRs**: 3696 · **Open PRs**: 50 · **Closed issues**: 894 · **Open issues**: 167 · **Commits**: 8319
+- **Releases**: 1403 · **Merged PRs**: 3697 · **Open PRs**: 54 · **Closed issues**: 894 · **Open issues**: 168 · **Commits**: 8320
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 17 | 77 | 30 | 6 | 8 | 84 |
-| last60d | 2026-09-14 | 32 | 143 | 33 | 15 | 15 | 149 |
-| 90d | 2026-08-15 | 50 | 234 | 38 | 16 | 16 | 243 |
-| last180d | 2026-05-17 | 81 | 369 | 43 | 20 | 19 | 373 |
-| 360d | 2025-11-18 | 100 | 564 | 44 | 34 | 26 | 572 |
-| last720d | 2024-11-23 | 100 | 986 | 49 | 76 | 40 | 987 |
+| 30d | 2026-10-15 | 16 | 76 | 34 | 5 | 9 | 85 |
+| last60d | 2026-09-15 | 31 | 143 | 37 | 15 | 16 | 150 |
+| 90d | 2026-08-16 | 50 | 235 | 42 | 16 | 17 | 244 |
+| last180d | 2026-05-18 | 81 | 369 | 47 | 20 | 20 | 374 |
+| 360d | 2025-11-19 | 100 | 564 | 48 | 34 | 27 | 573 |
+| last720d | 2024-11-24 | 100 | 987 | 53 | 76 | 41 | 985 |
 
 ## Release assets
 
@@ -79,7 +79,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **15** distros on [repology.org](https://repology.org/project/flyctl). **5** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **15** distros on [repology.org](https://repology.org/project/flyctl). **6** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -95,4 +95,4 @@ Install metadata for flyctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:07:09Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:51:06Z._
