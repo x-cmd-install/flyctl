@@ -25,9 +25,9 @@
 - repo: chocolatey
   binname: flyctl
   visiblename: flyctl
-  version: 0.5.1
+  version: 0.5.10
   origversion: null
-  status: outdated
+  status: newest
   summary: flyctl – flyctl is a command-line interface for fly.io
 - repo: homebrew
   srcname: flyctl
