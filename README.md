@@ -14,11 +14,11 @@ x install flyctl
 
 ## Code insight
 
-Total: **149,546** lines of code across **1045** files in the top 5 languages.
+Total: **149,809** lines of code across **1046** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 137,893 | 9,447 | 27,539 | 963 |
+| Go | 138,156 | 9,455 | 27,561 | 964 |
 | Graphql | 9,828 | 1 | 1,500 | 2 |
 | Toml | 695 | 48 | 174 | 45 |
 | Dockerfile | 409 | 105 | 171 | 22 |
@@ -42,48 +42,48 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.5.13` (2026-11-18)
-- **Last commit**: 2026-11-18
+- **Latest**: `v0.5.14` (2026-11-19)
+- **Last commit**: 2026-11-20
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,721 · **Forks**: 333 · **Open issues**: 1,070 · **Contributors**: 242
+- **Stars**: 1,722 · **Forks**: 333 · **Open issues**: 1,070 · **Contributors**: 242
 
 ## Totals (cumulative)
 
-- **Releases**: 1406 · **Merged PRs**: 3722 · **Open PRs**: 64 · **Closed issues**: 894 · **Open issues**: 176 · **Commits**: 8345
+- **Releases**: 1407 · **Merged PRs**: 3729 · **Open PRs**: 79 · **Closed issues**: 895 · **Open issues**: 175 · **Commits**: 8352
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 18 | 97 | 44 | 5 | 17 | 104 |
-| last60d | 2026-09-20 | 33 | 163 | 47 | 14 | 23 | 156 |
-| 90d | 2026-08-21 | 49 | 240 | 50 | 15 | 25 | 243 |
-| last180d | 2026-05-23 | 82 | 384 | 56 | 20 | 28 | 394 |
-| 360d | 2025-11-24 | 100 | 580 | 58 | 33 | 35 | 584 |
-| last720d | 2024-11-29 | 100 | 998 | 63 | 76 | 49 | 995 |
+| 30d | 2026-10-21 | 18 | 103 | 59 | 4 | 17 | 111 |
+| last60d | 2026-09-21 | 34 | 168 | 62 | 15 | 22 | 163 |
+| 90d | 2026-08-22 | 50 | 247 | 65 | 16 | 24 | 250 |
+| last180d | 2026-05-24 | 83 | 391 | 71 | 21 | 27 | 401 |
+| 360d | 2025-11-25 | 100 | 585 | 73 | 34 | 34 | 591 |
+| last720d | 2024-11-30 | 100 | 1005 | 78 | 76 | 47 | 1002 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [flyctl_0.5.13_checksums.txt](https://github.com/superfly/flyctl/releases/download/v0.5.13/flyctl_0.5.13_checksums.txt) | 595 B | `other` |
-| [flyctl_0.5.13_Linux_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.13/flyctl_0.5.13_Linux_arm64.tar.gz) | 46.1 MiB | `native/linux/arm64` |
-| [flyctl_0.5.13_Linux_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.13/flyctl_0.5.13_Linux_x86_64.tar.gz) | 50.1 MiB | `native/linux/x64` |
-| [flyctl_0.5.13_macOS_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.13/flyctl_0.5.13_macOS_arm64.tar.gz) | 48.9 MiB | `native/darwin/arm64` |
-| [flyctl_0.5.13_macOS_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.13/flyctl_0.5.13_macOS_x86_64.tar.gz) | 52.0 MiB | `native/darwin/x64` |
-| [flyctl_0.5.13_Windows_arm64.zip](https://github.com/superfly/flyctl/releases/download/v0.5.13/flyctl_0.5.13_Windows_arm64.zip) | 46.2 MiB | `native/win/arm64` |
-| [flyctl_0.5.13_Windows_x86_64.zip](https://github.com/superfly/flyctl/releases/download/v0.5.13/flyctl_0.5.13_Windows_x86_64.zip) | 50.6 MiB | `native/win/x64` |
+| [flyctl_0.5.14_checksums.txt](https://github.com/superfly/flyctl/releases/download/v0.5.14/flyctl_0.5.14_checksums.txt) | 595 B | `other` |
+| [flyctl_0.5.14_Linux_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.14/flyctl_0.5.14_Linux_arm64.tar.gz) | 46.1 MiB | `native/linux/arm64` |
+| [flyctl_0.5.14_Linux_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.14/flyctl_0.5.14_Linux_x86_64.tar.gz) | 50.1 MiB | `native/linux/x64` |
+| [flyctl_0.5.14_macOS_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.14/flyctl_0.5.14_macOS_arm64.tar.gz) | 49.0 MiB | `native/darwin/arm64` |
+| [flyctl_0.5.14_macOS_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.14/flyctl_0.5.14_macOS_x86_64.tar.gz) | 52.0 MiB | `native/darwin/x64` |
+| [flyctl_0.5.14_Windows_arm64.zip](https://github.com/superfly/flyctl/releases/download/v0.5.14/flyctl_0.5.14_Windows_arm64.zip) | 46.2 MiB | `native/win/arm64` |
+| [flyctl_0.5.14_Windows_x86_64.zip](https://github.com/superfly/flyctl/releases/download/v0.5.14/flyctl_0.5.14_Windows_x86_64.zip) | 50.7 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **15** distros on [repology.org](https://repology.org/project/flyctl). **3** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **15** distros on [repology.org](https://repology.org/project/flyctl). **6** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.5.13` | ✅ latest |
+| Homebrew | `0.5.14` | ✅ latest |
 | Nix unstable | `0.5.5` | ⚠️ outdated |
 
 ## Improve this data
@@ -95,4 +95,4 @@ Install metadata for flyctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:44:10Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T09:44:26Z._
