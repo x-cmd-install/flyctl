@@ -14,13 +14,13 @@ x install flyctl
 
 ## Code insight
 
-Total: **149,809** lines of code across **1046** files in the top 5 languages.
+Total: **150,279** lines of code across **1048** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 138,156 | 9,455 | 27,561 | 964 |
+| Go | 138,623 | 9,491 | 27,610 | 966 |
 | Graphql | 9,828 | 1 | 1,500 | 2 |
-| Toml | 695 | 48 | 174 | 45 |
+| Toml | 698 | 48 | 175 | 45 |
 | Dockerfile | 409 | 105 | 171 | 22 |
 | Sh | 375 | 64 | 79 | 13 |
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 1407 · **Merged PRs**: 3729 · **Open PRs**: 79 · **Closed issues**: 895 · **Open issues**: 175 · **Commits**: 8352
+- **Releases**: 1407 · **Merged PRs**: 3740 · **Open PRs**: 72 · **Closed issues**: 895 · **Open issues**: 175 · **Commits**: 8363
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 18 | 103 | 59 | 4 | 17 | 111 |
-| last60d | 2026-09-21 | 34 | 168 | 62 | 15 | 22 | 163 |
-| 90d | 2026-08-22 | 50 | 247 | 65 | 16 | 24 | 250 |
-| last180d | 2026-05-24 | 83 | 391 | 71 | 21 | 27 | 401 |
-| 360d | 2025-11-25 | 100 | 585 | 73 | 34 | 34 | 591 |
-| last720d | 2024-11-30 | 100 | 1005 | 78 | 76 | 47 | 1002 |
+| 30d | 2026-10-22 | 18 | 113 | 52 | 4 | 17 | 122 |
+| last60d | 2026-09-22 | 33 | 167 | 54 | 15 | 22 | 174 |
+| 90d | 2026-08-23 | 50 | 257 | 58 | 16 | 24 | 261 |
+| last180d | 2026-05-25 | 83 | 399 | 64 | 21 | 27 | 412 |
+| 360d | 2025-11-26 | 100 | 593 | 66 | 34 | 34 | 602 |
+| last720d | 2024-12-01 | 100 | 1016 | 71 | 76 | 47 | 1013 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for flyctl lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:44:26Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:40:52Z._
