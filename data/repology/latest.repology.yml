@@ -2,9 +2,9 @@
   srcname: flyctl
   binname: flyctl
   visiblename: flyctl
-  version: 0.5.14
-  origversion: 0.5.14-1
-  status: outdated
+  version: 0.5.16
+  origversion: 0.5.16-1
+  status: newest
   summary: Command line tools for fly.io services
   maintainers:
     - ringo@aur
@@ -14,9 +14,9 @@
   srcname: flyctl-bin
   binname: flyctl-bin
   visiblename: flyctl-bin
-  version: 0.5.14
-  origversion: 0.5.14-1
-  status: outdated
+  version: 0.5.16
+  origversion: 0.5.16-1
+  status: newest
   summary: Command line tools for fly.io services
   maintainers:
     - ringo@aur
@@ -32,9 +32,9 @@
 - repo: homebrew
   srcname: flyctl
   visiblename: flyctl
-  version: 0.5.14
+  version: 0.5.16
   origversion: null
-  status: outdated
+  status: newest
   summary: Command-line tools for fly.io services
 - repo: homebrew
   srcname: flyctl
@@ -157,16 +157,16 @@
   subrepo: main
   binname: flyctl
   visiblename: flyctl
-  version: 0.5.14
+  version: 0.5.16
   origversion: null
-  status: outdated
+  status: newest
   licenses:
     - Apache-2.0
 - repo: termux
   srcname: flyctl
   binname: flyctl
   visiblename: flyctl
-  version: 0.5.15
+  version: 0.5.16
   origversion: null
   status: newest
   summary: Command line tools for fly.io services
