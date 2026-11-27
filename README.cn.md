@@ -14,11 +14,11 @@ x install flyctl
 
 ## 代码洞察
 
-合计: **154,333** 行代码（覆盖前 5 种语言、共 **1077** 个文件）。
+合计: **154,744** 行代码（覆盖前 5 种语言、共 **1082** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 142,660 | 9,625 | 28,024 | 993 |
+| Go | 143,071 | 9,634 | 28,055 | 998 |
 | Graphql | 9,828 | 1 | 1,500 | 2 |
 | Toml | 715 | 48 | 181 | 47 |
 | Dockerfile | 409 | 105 | 171 | 22 |
@@ -42,40 +42,40 @@ x install flyctl
 
 ## 发布
 
-- **最新版本**: `v0.5.18` (2026-11-25)
-- **最近提交**: 2026-11-25
+- **最新版本**: `v0.5.19` (2026-11-26)
+- **最近提交**: 2026-11-26
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 1,726 · **Fork**: 334 · **开放 issue**: 1,075 · **贡献者**: 241
+- **Star**: 1,726 · **Fork**: 334 · **开放 issue**: 1,077 · **贡献者**: 242
 
 ## 累计统计
 
-- **发布数**: 1411 · **已合并 PR**: 3773 · **开放 PR**: 85 · **已关闭 issue**: 899 · **开放 issue**: 176 · **提交数**: 8396
+- **发布数**: 1412 · **已合并 PR**: 3779 · **开放 PR**: 83 · **已关闭 issue**: 902 · **开放 issue**: 175 · **提交数**: 8402
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 19 | 137 | 66 | 8 | 17 | 142 |
-| last60d | 2026-09-27 | 34 | 188 | 68 | 19 | 22 | 188 |
-| 90d | 2026-08-28 | 46 | 265 | 71 | 20 | 25 | 272 |
-| last180d | 2026-05-30 | 84 | 429 | 78 | 25 | 28 | 443 |
-| 360d | 2025-12-01 | 100 | 619 | 79 | 38 | 35 | 624 |
-| last720d | 2024-12-06 | 100 | 1036 | 84 | 78 | 47 | 1035 |
+| 30d | 2026-10-28 | 20 | 135 | 62 | 11 | 16 | 148 |
+| last60d | 2026-09-28 | 35 | 190 | 66 | 22 | 20 | 194 |
+| 90d | 2026-08-29 | 47 | 271 | 69 | 23 | 24 | 278 |
+| last180d | 2026-05-31 | 85 | 435 | 76 | 28 | 27 | 449 |
+| 360d | 2025-12-02 | 100 | 621 | 77 | 41 | 34 | 630 |
+| last720d | 2024-12-07 | 100 | 1042 | 82 | 81 | 46 | 1040 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [flyctl_0.5.18_checksums.txt](https://github.com/superfly/flyctl/releases/download/v0.5.18/flyctl_0.5.18_checksums.txt) | 595 B | `other` |
-| [flyctl_0.5.18_Linux_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.18/flyctl_0.5.18_Linux_arm64.tar.gz) | 46.3 MiB | `native/linux/arm64` |
-| [flyctl_0.5.18_Linux_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.18/flyctl_0.5.18_Linux_x86_64.tar.gz) | 50.3 MiB | `native/linux/x64` |
-| [flyctl_0.5.18_macOS_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.18/flyctl_0.5.18_macOS_arm64.tar.gz) | 49.2 MiB | `native/darwin/arm64` |
-| [flyctl_0.5.18_macOS_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.18/flyctl_0.5.18_macOS_x86_64.tar.gz) | 52.2 MiB | `native/darwin/x64` |
-| [flyctl_0.5.18_Windows_arm64.zip](https://github.com/superfly/flyctl/releases/download/v0.5.18/flyctl_0.5.18_Windows_arm64.zip) | 46.4 MiB | `native/win/arm64` |
-| [flyctl_0.5.18_Windows_x86_64.zip](https://github.com/superfly/flyctl/releases/download/v0.5.18/flyctl_0.5.18_Windows_x86_64.zip) | 50.8 MiB | `native/win/x64` |
+| [flyctl_0.5.19_checksums.txt](https://github.com/superfly/flyctl/releases/download/v0.5.19/flyctl_0.5.19_checksums.txt) | 595 B | `other` |
+| [flyctl_0.5.19_Linux_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.19/flyctl_0.5.19_Linux_arm64.tar.gz) | 46.3 MiB | `native/linux/arm64` |
+| [flyctl_0.5.19_Linux_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.19/flyctl_0.5.19_Linux_x86_64.tar.gz) | 50.3 MiB | `native/linux/x64` |
+| [flyctl_0.5.19_macOS_arm64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.19/flyctl_0.5.19_macOS_arm64.tar.gz) | 49.2 MiB | `native/darwin/arm64` |
+| [flyctl_0.5.19_macOS_x86_64.tar.gz](https://github.com/superfly/flyctl/releases/download/v0.5.19/flyctl_0.5.19_macOS_x86_64.tar.gz) | 52.2 MiB | `native/darwin/x64` |
+| [flyctl_0.5.19_Windows_arm64.zip](https://github.com/superfly/flyctl/releases/download/v0.5.19/flyctl_0.5.19_Windows_arm64.zip) | 46.4 MiB | `native/win/arm64` |
+| [flyctl_0.5.19_Windows_x86_64.zip](https://github.com/superfly/flyctl/releases/download/v0.5.19/flyctl_0.5.19_Windows_x86_64.zip) | 50.9 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -86,4 +86,4 @@ flyctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T09:09:41Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:43:21Z._
